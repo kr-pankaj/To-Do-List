@@ -11,4 +11,4 @@ A simple console-based To-Do List application built in Java. This project helps 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/to-do-list.git
+   git clone https://github.com/kr-pankaj/To-Do-List.git
